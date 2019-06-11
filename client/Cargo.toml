@@ -1,0 +1,9 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["gguurr <gurkovacs@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium = "0.25.0"
+image = "0.21.2"
