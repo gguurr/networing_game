@@ -1,2 +1,2 @@
-# networing_game
+# networking game
 networking game in rust
